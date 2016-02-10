@@ -1,0 +1,18 @@
+body{
+	background: #FAEADA;
+}
+
+h1{
+	font-family: helvetica;
+	font-size: 13px;
+	text-align: center;
+	color: #666666;
+	margin-top: 40px;
+}
+
+h2{
+	font-family: helvetica;
+	font-size: 11px;
+	text-align: center;
+	color: #666666;
+}
